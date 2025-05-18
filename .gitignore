@@ -1,0 +1,4 @@
+
+# Ignore backup and lock files
+*.bak
+*.lck
