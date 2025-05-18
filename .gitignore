@@ -1,4 +1,3 @@
-
-# Ignore backup and lock files
-*.bak
-*.lck
+# Ignore backup and lock files (including variants)
+*.bak*
+*.lck*
